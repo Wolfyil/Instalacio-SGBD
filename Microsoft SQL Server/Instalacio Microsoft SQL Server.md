@@ -1,0 +1,40 @@
+Despres d’instalar el Windows Server, començarem a descarregar el Microsoft SQL Server, de desenvolupador. Per descarregar-ho hem d’anar a la pagina oficial de Microsoft.
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852027-f8d69993-01e2-41ee-9ed1-253eb0f26468.png)
+
+Una vegada descarregat l’arxiu l’executem
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852051-1e169ef7-3d87-4585-bdd2-9a33928aa103.png)
+
+Ens sortirà el instal·lador, li donarem a instal·lació bàsica per el nostre SQL Server
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852068-772654c3-c1d2-4114-8cdb-04aa629cb36d.png)
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852075-e43d2ec0-53ed-43a4-a663-5156caa07309.png)
+
+Despres li donarem a instal·lar i deixarem la ubicació de la instal·lació per defecte. La instal·lació tarda uns minuts
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852089-29ce0752-ee4c-4eb6-a043-37558eed863a.png)
+
+Un cop finalitzada l’instalacio li donarem al apartat d'instalar el SSMS, ja que el SSMS es necessari ja que es un entorn integrat per administrar el SQL amb eines de configuració i administració d’instancies de SQL Server i bases de dades, per consultar, dissenyar i administrar les bases de dades.
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852123-9190799c-8415-41a0-a84d-cef1fffede89.png)
+
+
+Una vegada que li fem clic a instal·lar el SSMS ens sortirà una pagina oficial de Microsoft, li donarem al apartat de “Descargar SSMS”
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852141-10d57e82-20dc-477d-928a-a367847c1093.png)
+
+Una vegada descarregat executarem l’arxiu 
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852158-50729989-2b05-4b4b-ba68-8013e5b3c809.png)
+
+Ens surtira l’instalador del SSMS, deixarem la localització per defecte i li donarem a instal·lar
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852175-83ee112b-ace9-4d87-ba86-acefc0284d3d.png)
+
+Despres d’esperar uns minuts i que hagi finalitzat l’instalacio, ens demanara reiniciar el Windows Server, li direm que si per que s’apliqui els canvis per el SSMS.
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852188-13353842-2833-4aa9-8916-727109758087.png)
+
+Ja estaria finalitzada l’instalacio del Microsoft Server SQL
