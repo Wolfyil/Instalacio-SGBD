@@ -1,3 +1,16 @@
+REQUISITS PREVIS ABANS DE LA INSTAL·LACIO DEL MYSQL 8.0
+
+- Tenir una maquina CentOS 7 minimal amb 2 interfícies de xarxa: 
+
+1 NAT per accés a internet per descarregar lo necessari per fer la practica i actualitzar el sistema 
+
+1 Adaptador nomes amfitrió per tenir connexió des de el Putty del nostre ordinador a la Maquina CentOS 7 minimal de forma segura.
+
+
+
+
+
+
 INSTAL.LACIÓ MYSQL 8.0
 
 Abans d’ instal·lar el MySQL 8.0, hem de fer un Update del sistema 
