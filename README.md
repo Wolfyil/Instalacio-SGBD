@@ -1,1 +1,1 @@
-# Instalacio-SGBD
+# Instal·lacio-SGBD
