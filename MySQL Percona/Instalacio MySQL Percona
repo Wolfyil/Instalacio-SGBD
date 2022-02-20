@@ -4,6 +4,7 @@ Abans d’ instal·lar el Percona Server for MySQL, hem de fer un Update del sis
 
 yum Update -y
 
+![imagen](https://user-images.githubusercontent.com/61557739/154849384-d14e7fc0-86c4-4dba-9e7b-d6c6e88189c4.png)
  
 
 Despres d’actualitzar el sistema, hem de instal·lar els repositoris de percona amb la següent comanda:
