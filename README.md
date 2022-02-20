@@ -1,1 +1,1 @@
-# Instal-laci-d-un-SGBD
+# Instalacio-SGBD
