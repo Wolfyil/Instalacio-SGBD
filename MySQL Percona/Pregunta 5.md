@@ -8,9 +8,11 @@ Nano /etc/pam.d/system-auth
 
 Els canvis que farem seran els següents:
 Comentarem la linea que hi havia originalment i afegirem una linea de sufficient en el password i editarem les 2 dues sufficient.
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850289-fc7099e9-9b8d-4145-968d-783a0ff66a03.png)
 
 Despres guardem, sortim del fitxer i crearem l’usuari asix al SO. Posarem la contrasenya “patata”
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850302-a5d5cd47-02b0-4ece-b027-4826aee7d0d6.png)
 
 
