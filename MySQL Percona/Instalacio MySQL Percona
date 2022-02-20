@@ -1,0 +1,9 @@
+INSTAL.LACIÓ PERCONA SERVER FOR MYSQL
+
+Abans d’ instal·lar el Percona Server for MySQL, hem de fer un Update del sistema 
+
+yum Update -y
+
+ 
+
+Despres d’actualitzar el sistema, hem de instal·lar els repositoris de percona amb la següent comanda:
