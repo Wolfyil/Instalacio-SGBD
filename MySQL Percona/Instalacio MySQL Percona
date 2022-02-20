@@ -8,3 +8,4 @@ yum Update -y
  
 
 Despres d’actualitzar el sistema, hem de instal·lar els repositoris de percona amb la següent comanda:
+
