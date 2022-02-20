@@ -11,6 +11,6 @@
 
 - Ho he sabut mirant el fitxer *my.cnf*
 
-- "Datadir" és el directori on s'emmagatzemen els fitxers de la base de dades.
+- "datadir" és el directori on s'emmagatzemen els fitxers de la base de dades.
 
 ![imagen](https://user-images.githubusercontent.com/61557739/154850243-38eff2bb-43fb-4fe1-b2c2-354aa5461a29.png)
