@@ -3,6 +3,7 @@
 
 La comanda per arrancar es:
 Service mysql start
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850109-7f2b4e36-2515-459d-a7cb-8fde4bbbf72d.png)
 
 
@@ -10,8 +11,10 @@ Service mysql start
 Per verficiar el status
 
 Systemctl status mysql
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850117-c0184443-dbd2-4a71-bbd3-6125524bf4aa.png)
 
 Per apagar el servei de la base de dades
 Service mysql stop
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850131-0c2d7dbc-53b0-4f51-ae6d-b6fce02298ca.png)
