@@ -1,0 +1,35 @@
+Ara una vegada reiniciat el servidor Windows, si ens anem al icone del Windows abaix ens sortirà per executar el Microsoft SQL. Li farem clic per executar-lo
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852301-0939f9c2-cd93-4e28-9270-0d6864d68de5.png)
+
+Una vegada dins, ens sortirà per fer una connexió al nostre SQL Server, li donem a connectar. Important no canviar el nom del servidor per evitar errors.
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852319-8878199e-af1c-4c83-b8e9-7f0a4698754d.png)
+
+Ja estaríem dins del nostre SQL Server! Pero hara farem una petita base de dades i una taula per comprovar que funciona tot correctament.
+
+Per fer la base de dades li farem clic dret a la carpeta “Databases” i li donem a “New Database” per crear una nova
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852335-8ce436fd-685f-4414-b339-a033ea126d39.png)
+
+Anomenare la Base de dades ASIX i li donarem a OK
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852358-8fa23c11-e2d9-4b98-9176-2320bc509f25.png)
+
+Acontinuacio crearem una petita taula, farem clic dret en la carpeta “Tables”, “New” --> “Table”
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852409-ec9c84a1-7784-40b0-924a-f750618e51a9.png)
+
+Començarem a posar unes dades per crear la taula i guardarem
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852432-6f7eb3cf-a071-41d0-be81-9642bfab196b.png)
+
+El nom de la taula serà Usuaris
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852453-06021587-5386-4405-bd49-00dfb0126017.png)
+
+Finalment farem un Insert a la nostre taule i comprovem
+
+![imagen](https://user-images.githubusercontent.com/61557739/154852464-631636a8-ac71-48fb-ac9f-969ac948cb4f.png)
+
+Finalment ja estaria tot
