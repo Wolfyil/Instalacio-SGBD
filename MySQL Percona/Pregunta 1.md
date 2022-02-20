@@ -13,18 +13,22 @@ Afegirem les següents linees com es mostra en l’imatge
 
 Despres reiniciarem el Percona MySQL
 systemctl restart mysql
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850043-98748d46-ff9e-4863-8d9f-55dbbd873363.png)
 
 Ara mirarem quina es nostre contrasenya temporal del Percona MySQL, per accedir al MySQL amb la següent comanda:
 
 sudo grep "temporary password" /var/log/mysqld.log
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850059-db0b519c-9509-482c-a15e-1dfd91065a5b.png)
 
 
 Copiarem aquesta contrasenya temporal. A continuació realitzarem una securitzacio al nostre Percona for MySQL, utilitzant la següent comanda:
 
 mysql_secure_installation
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850067-08666ae9-602b-43aa-b889-fc3b90a76338.png)
+
 ![imagen](https://user-images.githubusercontent.com/61557739/154850076-dd8e34dd-69f3-434c-b886-ead50b993bee.png)
 
 Finalment ja estaria.
